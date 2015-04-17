@@ -83,6 +83,11 @@ Ausência de integrantes nas reuniões;
 Falta de experiências das tecnologias e ferramentas utilizadas;
 Incompatibilidade de horários com outras atividades.
 
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
 Premissas
 
 ●      É necessário o apoio irrestrito de todos os envolvidos no projeto;
@@ -141,7 +146,3 @@ Retrospectiva/Iteração IV | 09/06/2015
 Entrega Final do Projeto | 30/06/2015
 
 
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
