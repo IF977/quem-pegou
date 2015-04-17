@@ -129,6 +129,12 @@ A comunicação do grupo ocorrerá através da criação de um grupo em rede soc
 Para acompanhamento do projeto em suas fases, será utilizada a ferramenta Pivotal Tracker e para acompanhamento do desenvolvimento da ferramenta web, será utilizada a ferramenta GitHub.
 A comunicação com o cliente se dará através de reuniões periódicas entre o gerente e os demais participantes da equipe a serem marcadas quando necessário. Nestas reuniões, a equipe deverá debater a respeito do andamento do projeto, impedimentos, necessidade de novos recursos, caso necessário e estimativa de término. Pesquisas periódicas com futuros usuários para reunir as informações que serão importantes para o desenvolvimento.        
 
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 6. Marcos do Projeto
  
 Marcos
