@@ -140,22 +140,8 @@ Testes/Iteração III | 08/06/2015
 Retrospectiva/Iteração IV | 09/06/2015
 Entrega Final do Projeto | 30/06/2015
 
-6. Marcos do Projeto
- 
-Marcos
-Data
-Início do projeto
-23/03/2015
-Infra estrutura da fábrica de software
-15/04/2015
-Iteração I
-20/04/2015
-Iteração II
-11/05/2015
-Testes/Iteração III
-08/06/2015
-Retrospectiva/Iteração IV
-  09/06/2015
-Entrega Final do Projeto
-30/06/2015
- 
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
