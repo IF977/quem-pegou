@@ -130,10 +130,15 @@ Para acompanhamento do projeto em suas fases, será utilizada a ferramenta Pivot
 A comunicação com o cliente se dará através de reuniões periódicas entre o gerente e os demais participantes da equipe a serem marcadas quando necessário. Nestas reuniões, a equipe deverá debater a respeito do andamento do projeto, impedimentos, necessidade de novos recursos, caso necessário e estimativa de término. Pesquisas periódicas com futuros usuários para reunir as informações que serão importantes para o desenvolvimento.        
 
 
-First Header | Second Header
+Marcos Data | Data
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Início do projeto | 23/03/2015
+Infra estrutura da fábrica de software| 15/04/2015
+Iteração I| 20/04/2015
+Iteração II| 11/05/2015
+Testes/Iteração III | 08/06/2015
+Retrospectiva/Iteração IV | 09/06/2015
+Entrega Final do Projeto | 30/06/2015
 
 6. Marcos do Projeto
  
