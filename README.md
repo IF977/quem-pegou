@@ -83,10 +83,7 @@ Ausência de integrantes nas reuniões;
 Falta de experiências das tecnologias e ferramentas utilizadas;
 Incompatibilidade de horários com outras atividades.
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+
 
 Premissas
 
