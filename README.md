@@ -130,7 +130,7 @@ Para acompanhamento do projeto em suas fases, será utilizada a ferramenta Pivot
 A comunicação com o cliente se dará através de reuniões periódicas entre o gerente e os demais participantes da equipe a serem marcadas quando necessário. Nestas reuniões, a equipe deverá debater a respeito do andamento do projeto, impedimentos, necessidade de novos recursos, caso necessário e estimativa de término. Pesquisas periódicas com futuros usuários para reunir as informações que serão importantes para o desenvolvimento.        
 
 
-Marcos Data | Data
+Marcos  | Data
 ------------ | -------------
 Início do projeto | 23/03/2015
 Infra estrutura da fábrica de software| 15/04/2015
