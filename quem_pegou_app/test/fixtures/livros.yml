@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  autor: MyString
+  dataPublicacao: MyString
+  dataEmprestimo: MyString
+  dataEntrega: MyString
+  usuario_id: 1
+
+two:
+  nome: MyString
+  autor: MyString
+  dataPublicacao: MyString
+  dataEmprestimo: MyString
+  dataEntrega: MyString
+  usuario_id: 1
