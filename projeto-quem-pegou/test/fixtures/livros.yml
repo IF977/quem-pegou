@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  autor: MyString
+  anoPublicacao: MyString
+  dataEmprestimo: 2015-06-28
+  dataDevolucao: 2015-06-28
+
+two:
+  nome: MyString
+  autor: MyString
+  anoPublicacao: MyString
+  dataEmprestimo: 2015-06-28
+  dataDevolucao: 2015-06-28
